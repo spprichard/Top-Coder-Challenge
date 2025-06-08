@@ -1,0 +1,116 @@
+Run 1: 🎯 Your Score: 46237.00 (lower is better)
+  Check these high-error cases:
+    Case 996: 1 days, 1082 miles, $1809.49 receipts
+      Expected: $446.94, Got: $2114.24, Error: $1667.30
+    Case 684: 8 days, 795 miles, $1645.99 receipts
+      Expected: $644.69, Got: $2234.74, Error: $1590.05
+    Case 152: 4 days, 69 miles, $2321.49 receipts
+      Expected: $322.00, Got: $1880.76, Error: $1558.76
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2360.39, Error: $1483.22
+    Case 548: 8 days, 482 miles, $1411.49 receipts
+      Expected: $631.81, Got: $2036.54, Error: $1404.73
+
+
+Run 2: 🎯 Your Score: 24841.00 (lower is better)
+  Check these high-error cases:
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2148.39, Error: $1271.22
+    Case 996: 1 days, 1082 miles, $1809.49 receipts
+      Expected: $446.94, Got: $1641.39, Error: $1194.45
+    Case 684: 8 days, 795 miles, $1645.99 receipts
+      Expected: $644.69, Got: $1810.94, Error: $1166.25
+    Case 367: 11 days, 740 miles, $1171.99 receipts
+      Expected: $902.09, Got: $1962.39, Error: $1060.30
+    Case 548: 8 days, 482 miles, $1411.49 receipts
+      Expected: $631.81, Got: $1683.09, Error: $1051.28
+
+Run 3: 🎯 Your Score: 29133.00 (lower is better) 
+  Check these high-error cases:
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $1954.39, Error: $1077.22
+    Case 940: 1 days, 1002 miles, $2320.13 receipts
+      Expected: $1475.40, Got: $500.00, Error: $975.40
+    Case 921: 1 days, 1041 miles, $1630.25 receipts
+      Expected: $1466.95, Got: $500.00, Error: $966.95
+    Case 713: 1 days, 1058 miles, $1601.04 receipts
+      Expected: $1465.90, Got: $500.00, Error: $965.90
+    Case 658: 1 days, 872 miles, $2420.07 receipts
+      Expected: $1456.34, Got: $500.00, Error: $956.34
+
+Run 4: 🎯 Your Score: 34643.00 (lower is better)
+  Check these high-error cases:
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2013.19, Error: $1136.02
+    Case 513: 8 days, 1025 miles, $1031.33 receipts
+      Expected: $2214.64, Got: $1164.02, Error: $1050.62
+    Case 149: 7 days, 1006 miles, $1181.33 receipts
+      Expected: $2279.82, Got: $1243.22, Error: $1036.60
+    Case 940: 1 days, 1002 miles, $2320.13 receipts
+      Expected: $1475.40, Got: $500.00, Error: $975.40
+    Case 921: 1 days, 1041 miles, $1630.25 receipts
+      Expected: $1466.95, Got: $500.00, Error: $966.95
+
+Run 5: 🎯 Your Score: 33203.00 (lower is better)
+  Check these high-error cases:
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2013.19, Error: $1136.02
+    Case 513: 8 days, 1025 miles, $1031.33 receipts
+      Expected: $2214.64, Got: $1162.46, Error: $1052.18
+    Case 149: 7 days, 1006 miles, $1181.33 receipts
+      Expected: $2279.82, Got: $1243.22, Error: $1036.60
+    Case 751: 8 days, 1134 miles, $1049.84 receipts
+      Expected: $2073.13, Got: $1183.70, Error: $889.43
+    Case 133: 8 days, 891 miles, $1194.36 receipts
+      Expected: $2016.46, Got: $1130.77, Error: $885.69
+
+
+Run 6: 🎯 Your Score: 33238.00 (lower is better)
+  Check these high-error cases:
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2013.19, Error: $1136.02
+    Case 149: 7 days, 1006 miles, $1181.33 receipts
+      Expected: $2279.82, Got: $1243.22, Error: $1036.60
+    Case 513: 8 days, 1025 miles, $1031.33 receipts
+      Expected: $2214.64, Got: $1312.46, Error: $902.18
+    Case 669: 7 days, 1033 miles, $1013.03 receipts
+      Expected: $2119.83, Got: $1245.26, Error: $874.57
+    Case 327: 7 days, 1089 miles, $1026.25 receipts
+      Expected: $2132.85, Got: $1259.51, Error: $873.34
+
+Run 7: 🎯 Your Score: 33089.00 (lower is better)
+  Check these high-error cases:
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2013.19, Error: $1136.02
+    Case 513: 8 days, 1025 miles, $1031.33 receipts
+      Expected: $2214.64, Got: $1312.46, Error: $902.18
+    Case 389: 14 days, 296 miles, $485.68 receipts
+      Expected: $924.90, Got: $1779.24, Error: $854.34
+    Case 335: 9 days, 1155 miles, $1346.4 receipts
+      Expected: $2248.12, Got: $1436.32, Error: $811.80
+    Case 633: 14 days, 68 miles, $438.96 receipts
+      Expected: $866.76, Got: $1658.92, Error: $792.16
+
+Run 8: 🎯 Your Score: 33299.00 (lower is better)
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2275.18, Error: $1398.01
+    Case 513: 8 days, 1025 miles, $1031.33 receipts
+      Expected: $2214.64, Got: $1312.46, Error: $902.18
+    Case 335: 9 days, 1155 miles, $1346.4 receipts
+      Expected: $2248.12, Got: $1436.32, Error: $811.80
+    Case 763: 7 days, 950 miles, $1739.62 receipts
+      Expected: $2032.23, Got: $1243.19, Error: $789.04
+    Case 389: 14 days, 296 miles, $485.68 receipts
+      Expected: $924.90, Got: $1704.94, Error: $780.04
+
+Run 9: 🎯 Your Score: 33036.00 (lower is better)
+    Case 520: 14 days, 481 miles, $939.99 receipts
+      Expected: $877.17, Got: $2239.18, Error: $1362.01
+    Case 389: 14 days, 296 miles, $485.68 receipts
+      Expected: $924.90, Got: $1954.24, Error: $1029.34
+    Case 646: 14 days, 1153 miles, $346.58 receipts
+      Expected: $1292.93, Got: $2279.54, Error: $986.61
+    Case 388: 14 days, 1100 miles, $237.69 receipts
+      Expected: $1265.57, Got: $2211.84, Error: $946.27
+    Case 786: 14 days, 1020 miles, $510.33 receipts
+      Expected: $1406.95, Got: $2332.29, Error: $925.34
